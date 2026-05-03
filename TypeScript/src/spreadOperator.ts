@@ -1,3 +1,5 @@
+
+//spreed operator spreads items of arrays 
 //for array
 let friends: string[] = ["fr1", "fr2"];
 
