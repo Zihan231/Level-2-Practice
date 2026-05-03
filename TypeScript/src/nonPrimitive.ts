@@ -71,4 +71,4 @@ let user5: {
 }
 
 user5.FatherName = "Abc" //error: Can't modify a readOnly variable;
-    
+     
