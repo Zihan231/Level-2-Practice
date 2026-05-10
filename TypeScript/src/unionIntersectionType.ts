@@ -16,4 +16,4 @@ const manager1: EmployeeManager = {
     depth: "SQA"
 }
 
-console.log(manager1);
+console.log(manager1); 
